@@ -1,10 +1,17 @@
-git init --- to initiate git in project folder
+--- to initiate git in project folder
+git init 
 
-git status -- to get status
+ -- to get status
+git status
 
-git add <file name> -- to add file at stageing area or |git add .| to commit all file at once
+To add file at stageing area or |git add .| to commit all file at once
+git add <file name> 
 
+To commit your changes
 git commit -m "your commit comment" 
 
-git log --to check you commit logs
+--to check you commit logs
+git log 
 
+to create branch and checkout directly in to new created branch
+git checkout -b <branch name>
