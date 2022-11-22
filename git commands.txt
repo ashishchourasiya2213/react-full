@@ -1,0 +1,8 @@
+git init --- to initiate git in project folder
+
+git status -- to get status
+
+git add <file name> -- to add file at stageing area or |git add .| to commit all file at once
+
+git commit -m "your commit comment" 
+
