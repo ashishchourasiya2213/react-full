@@ -11,4 +11,4 @@ git log --to check you commit logs
 to create branch and checkout directly in to new created branch
 git checkout -b <branch name>
 
-my new git file for command
+New Change to the fie to test merge on master
