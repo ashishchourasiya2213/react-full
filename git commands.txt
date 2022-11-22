@@ -28,3 +28,5 @@ git remote add origin https://github.com/ashishchourasiya2213/react-full.git
 git branch -M master
 
 git push -u origin master
+
+git pull orign master
