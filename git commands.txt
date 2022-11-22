@@ -1,3 +1,6 @@
+
+git config --global --edit --to add name and email.
+
 git init --- to initiate git in project folder
 
 git status -- to get status
@@ -6,9 +9,22 @@ git add <file name> -- to add file at stageing area or |git add .| to commit all
 
 git commit -m "your commit comment" 
 
+git merge master
+
+git pull master
 git log --to check you commit logs
 
 to create branch and checkout directly in to new created branch
 git checkout -b <branch name>
 
 New Change to the fie to test merge on master
+
+git clone -v reomte https://github.com/repoabc --to get code clone
+
+git remove -v
+
+git remote add origin https://github.com/ashishchourasiya2213/react-full.git
+
+git branch -M master
+
+git push -u origin master
