@@ -1,0 +1,5 @@
+DISM /Online /Enable-Feature /FeatureName:NetFx3 /All
+
+DISM.EXE /Online /Add-Package /PackagePath:"D:\sources\sxs\Microsoft-Windows-NetFx3-OnDemand-Package.cab"
+
+DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:x:\sources\sxs
