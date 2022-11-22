@@ -8,3 +8,10 @@ git commit -m "your commit comment"
 
 git log --to check you commit logs
 
+TO create new branch
+git branch <branch name>
+
+To switch in to branch
+git checkout <branch name
+
+
