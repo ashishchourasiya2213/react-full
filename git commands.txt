@@ -27,6 +27,6 @@ git remote add origin https://github.com/ashishchourasiya2213/react-full.git
 
 git branch -M master
 
-git push -u origin master
+git push -u origin master here master is your branch name used in local pc and remote also
 
 git pull orign master
