@@ -15,3 +15,6 @@ git log
 
 to create branch and checkout directly in to new created branch
 git checkout -b <branch name>
+
+
+my new git file for command
